@@ -1,5 +1,8 @@
 # Named-Entity-Recognition-Guide
 
+## DEMO
+![demo_gif](https://github.com/anshulp2912/Named-Entity-Recognition-Guide/blob/master/media/NER-Sample-UI.gif)
+
 ## Introduction
 We humans are capable of recognizing and interpreting categories/tags such as Person, Location, Date, Time etc of words given in a particular sentence or paragraph. This has proved to be  a great boon for humanity in communicating with each other. This helps us in improving teamwork skills and efficiency in completion of the job. <br>
 So how great will it be if our highly intelligent computer machines would replicate our human mind tendencies to interpret a high level language such as English. To implement this we take use of computer’s Natural Language Processing(NLP) techniques to analyze natural languages. This involves techniques such as relationship extraction, speech processing, document categorization  and summarizing of text. These analytical methods are further based on fundamental techniques such as tokenization, sentence detection, classification, and relationship extraction. 
