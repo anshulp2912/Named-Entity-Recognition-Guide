@@ -23,3 +23,5 @@ Since machine cannot understand high level languages, we need to break down the 
 ## Guide to NER -->
 This section includes many techniques that are used to solve the problem at our hand:
 - Bidirectional LSTM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anshulp2912/Named-Entity-Recognition-Guide/blob/master/source/NER_BiLSTM.ipynb)
+- BERT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/anshulp2912/Named-Entity-Recognition-Guide/blob/master/source/BERT_Based_NER.ipynb)
+- Exploratory Data Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anshulp2912/Named-Entity-Recognition-Guide/blob/master/source/EDA_NER.ipynb)
